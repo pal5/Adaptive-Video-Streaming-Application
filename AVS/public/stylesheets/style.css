@@ -1,7 +1,7 @@
 body
 {
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font: 1.3rem "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 .fix
 {
@@ -66,4 +66,17 @@ input[type=submit]
 video
 {
   width:75%;
+}
+
+div
+{
+  font-size: 1.8rem;
+}
+li
+{
+ font-size: 1.6rem;
+}
+h2
+{
+  font-weight: 200;
 }
